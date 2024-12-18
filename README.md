@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wuttiwat Phoemsirikawinkun
 ==================================================================================================================================================
 
-New graduate
-------------
-
-I'm a computer science student. I've just graduated at Burapha University. I'm interested in frontend web developer. I've 4 months of internship experience as a software developer
+I'm a computer science student. I've graduated at Burapha University. I'm interested in full-stack web developer.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [wuttiwat.pho@hotmail.com](mailto:wuttiwat.pho@hotmail.com)
